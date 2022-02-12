@@ -1,0 +1,32 @@
+.background {
+    align-items: center;
+    text-align: center;
+}
+
+.form {
+    font-size: 30px;
+}
+
+.label {
+    width: 100px;
+    text-align: center;
+}
+
+.input {
+  width:200px;
+  height:50px;
+  font-size:20px;
+}
+
+.title {
+    margin-top: 10%;
+    margin-bottom: 3%;
+}
+
+.button {
+    margin-top:3%;
+    background-color:#B72B5C ;
+    color : white;
+    font-size: 20px;
+    
+}
